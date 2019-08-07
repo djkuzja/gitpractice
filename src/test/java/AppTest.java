@@ -4,5 +4,7 @@ public class AppTest {
         System.out.println("jhkfdgfkjsgdfjksgfs");
 
         System.out.println("home");
+
+        System.out.println("go home");
     }
 }
